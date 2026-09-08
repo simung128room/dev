@@ -1,0 +1,6 @@
+{
+  "name": "DEV",
+  "description": "DEV: ผู้ช่วย AI อัจฉริยะ ตอบคำถามและช่วยเหลือรอบด้าน พร้อมความสามารถวิเคราะห์และเขียนโค้ด",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
